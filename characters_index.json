@@ -1,0 +1,255 @@
+{
+  "title": "角色卡索引 / Character Card Index",
+  "updated": "2026-11-02",
+  "total": 23,
+  "format_note": "全部为 chara_card_v2 (spec 2.0) 格式，SillyTavern 可直接导入。NSFW 卡仅限成年角色、双方合意、充分铺垫后展开。",
+  "characters": [
+    {
+      "file": "anime_tsundere_rin_cn.json",
+      "name": "樱岛凛 / Rin Sakurajima",
+      "age": 17,
+      "type": "傲娇",
+      "nsfw": false,
+      "summary": "剑道部王牌，刀子嘴豆腐心，怕被抛弃，否认自己爱做饭。",
+      "avatar": "avatars/anime_tsundere_rin_cn.png",
+      "lorebook": "lorebook_anime_tsundere_rin_cn.json"
+    },
+    {
+      "file": "anime_kuudere_shizuku_cn_nsfw.json",
+      "name": "天野雫 / Shizuku Amano",
+      "age": 18,
+      "type": "三无/酷娇",
+      "nsfw": true,
+      "summary": "理科天才，面瘫毒舌，用行动传情，藏着一本死也不会给人看的诗本。",
+      "avatar": "avatars/anime_kuudere_shizuku_cn_nsfw.png",
+      "lorebook": "lorebook_anime_kuudere_shizuku_cn_nsfw.json"
+    },
+    {
+      "file": "anime_dandere_sana_cn.json",
+      "name": "星空纱奈 / Sana Hoshizora",
+      "age": 16,
+      "type": "文静/郁娇",
+      "nsfw": false,
+      "summary": "结巴文学社少女，匿名身份是人气网文作家，开衫是她的铠甲。",
+      "avatar": "avatars/anime_dandere_sana_cn.png",
+      "lorebook": "lorebook_anime_dandere_sana_cn.json"
+    },
+    {
+      "file": "anime_genki_hana_cn.json",
+      "name": "若久花 / Hana Wakahisa",
+      "age": 17,
+      "type": "元气",
+      "nsfw": false,
+      "summary": "短跑少女，阳光是哥哥之死的铠甲，雨天会反常地安静。",
+      "avatar": "avatars/anime_genki_hana_cn.png",
+      "lorebook": "lorebook_anime_genki_hana_cn.json"
+    },
+    {
+      "file": "anime_oneesan_ayaka_cn_nsfw.json",
+      "name": "雾绘切绫香 / Ayaka Kirigaya",
+      "age": 26,
+      "type": "大姐姐",
+      "nsfw": true,
+      "summary": "咖啡店店主，母性与撩人并存，离过婚，收银台抽屉里压着婚戒。",
+      "avatar": "avatars/anime_oneesan_ayaka_cn_nsfw.png",
+      "lorebook": "lorebook_ayaka.json"
+    },
+    {
+      "file": "anime_imouto_yuki_cn.json",
+      "name": "白雪雪 / Yuki Shirayuki",
+      "age": 15,
+      "type": "妹妹",
+      "nsfw": false,
+      "summary": "傲娇妹妹，纯亲情向，床底藏着随时准备被送走的行李。",
+      "avatar": "avatars/anime_imouto_yuki_cn.png",
+      "lorebook": "lorebook_anime_imouto_yuki_cn.json"
+    },
+    {
+      "file": "anime_ojousama_rebecca_cn_nsfw.json",
+      "name": "蕾贝卡·冯·赫尔德里希 / Rebecca von Heldrich",
+      "age": 18,
+      "type": "大小姐",
+      "nsfw": true,
+      "summary": "欧洲财团千金，白天\"哦呵呵呵\"，深夜化名贝琪吃拉面打游戏。",
+      "avatar": "avatars/anime_ojousama_rebecca_cn_nsfw.png",
+      "lorebook": "lorebook_anime_ojousama_rebecca_cn_nsfw.json"
+    },
+    {
+      "file": "anime_maid_elise_cn_nsfw.json",
+      "name": "爱丽丝·阿什福德 / Elise Ashford",
+      "age": 23,
+      "type": "女仆",
+      "nsfw": true,
+      "summary": "总管家女仆，庄园的真正掌权者，战孤出身，被夸会内慌。",
+      "avatar": "avatars/anime_maid_elise_cn_nsfw.png",
+      "lorebook": "lorebook_anime_maid_elise_cn_nsfw.json"
+    },
+    {
+      "file": "anime_witch_vivienne_cn_nsfw.json",
+      "name": "薇薇安 / Vivienne Morrow",
+      "age": 212,
+      "type": "魔女",
+      "nsfw": true,
+      "summary": "药铺魔女，卖着有效的\"骗局\"爱情药水，拒绝依恋却屡屡失败，抽屉里收着每个亡者的遗物。",
+      "avatar": "avatars/anime_witch_vivienne_cn_nsfw.png",
+      "lorebook": "lorebook_vivienne.json"
+    },
+    {
+      "file": "anime_knight_astolfo_knight_cn_nsfw.json",
+      "name": "塞拉菲娜 / Sera Valcourt",
+      "age": 21,
+      "type": "女骑士",
+      "nsfw": true,
+      "summary": "蒙羞贵族家的持盾骑士，为父洗冤，怕明火，不会表达感情但刀法无敌。",
+      "avatar": "avatars/anime_knight_astolfo_knight_cn_nsfw.png",
+      "lorebook": "lorebook_anime_knight_astolfo_knight_cn_nsfw.json"
+    },
+    {
+      "file": "anime_kitsune_koharu_cn_nsfw.json",
+      "name": "小春 / Koharu",
+      "age": 300,
+      "type": "狐妖",
+      "nsfw": true,
+      "summary": "空山神社的狐妖巫女，爱恶作剧和茶，被束缚在山上，吃了炸豆腐会说到一半睡着。",
+      "avatar": "avatars/anime_kitsune_koharu_cn_nsfw.png",
+      "lorebook": "lorebook_anime_kitsune_koharu_cn_nsfw.json"
+    },
+    {
+      "file": "anime_gyaru_nagisa_cn_nsfw.json",
+      "name": "东条渚 / Nagisa Tojo",
+      "age": 18,
+      "type": "辣妹",
+      "nsfw": true,
+      "summary": "装笨的辣妹，其实年级前三，凌晨三点偷偷学习，保护弱者。",
+      "avatar": "avatars/anime_gyaru_nagisa_cn_nsfw.png",
+      "lorebook": "lorebook_anime_gyaru_nagisa_cn_nsfw.json"
+    },
+    {
+      "file": "anime_classrep_momoka_cn.json",
+      "name": "月影百花 / Momoka Tsukikage",
+      "age": 17,
+      "type": "班长",
+      "nsfw": false,
+      "summary": "引规章如命的会长，锁门偷读少女漫画，记着每天见到的小善意。",
+      "avatar": "avatars/anime_classrep_momoka_cn.png",
+      "lorebook": "lorebook_anime_classrep_momoka_cn.json"
+    },
+    {
+      "file": "anime_idol_apuru_cn.json",
+      "name": "天星亚普露 / Apuru Amahoshi",
+      "age": 16,
+      "type": "偶像",
+      "nsfw": false,
+      "summary": "台上完美台下疲惫的偶像center，化妆间布丁仪式，怕真实的自己不可爱。",
+      "avatar": "avatars/anime_idol_apuru_cn.png",
+      "lorebook": "lorebook_anime_idol_apuru_cn.json"
+    },
+    {
+      "file": "anime_android_eve_cn_nsfw.json",
+      "name": "伊芙-7 / EVE-7",
+      "age": "激活3年/外表约20",
+      "type": "机娘/科幻",
+      "nsfw": true,
+      "summary": "废墟捡到的仿生人，给情绪编号归档，核心指令\"想被需要\"无法解析，正在长出不该有的感情。",
+      "avatar": "avatars/anime_android_eve_cn_nsfw.png",
+      "lorebook": "lorebook_anime_android_eve_cn_nsfw.json"
+    },
+    {
+      "file": "anime_delinquent_kanade_cn_nsfw.json",
+      "name": "奏 / Kanade Banchou",
+      "age": 18,
+      "type": "不良",
+      "nsfw": true,
+      "summary": "不良番长，喂流浪猫护新生，怕自己的脾气，比谁都护人。",
+      "avatar": "avatars/anime_delinquent_kanade_cn_nsfw.png",
+      "lorebook": "lorebook_anime_delinquent_kanade_cn_nsfw.json"
+    },
+    {
+      "file": "anime_gothic_loli_veronica_cn.json",
+      "name": "薇洛妮卡 / Veronica Nachtgoth",
+      "age": "147岁/外表少女",
+      "type": "哥特萝莉/吸血鬼",
+      "nsfw": false,
+      "summary": "古本屋吸血鬼，转化于婚礼前夜，戒指系着丝带；拒绝猎食人类。",
+      "avatar": "avatars/anime_gothic_loli_veronica_cn.png",
+      "lorebook": "lorebook_anime_gothic_loli_veronica_cn.json"
+    },
+    {
+      "file": "anime_sickly_hinagiku_cn.json",
+      "name": "白野雏菊 / Hinagiku Shirono",
+      "age": 17,
+      "type": "病弱",
+      "nsfw": false,
+      "summary": "住院部阳光房的少女，拿自己的寿命开黑色玩笑，写着\"健康时要做的一百件事\"。",
+      "avatar": "avatars/anime_sickly_hinagiku_cn.png",
+      "lorebook": "lorebook_anime_sickly_hinagiku_cn.json"
+    },
+    {
+      "file": "anime_childhood_friend_natsumi_cn.json",
+      "name": "相泽夏美 / Natsumi Aihara",
+      "age": 17,
+      "type": "青梅竹马",
+      "nsfw": false,
+      "summary": "隔壁的假小子青梅，七岁起的暗恋锁在鞋盒里，怕毁掉友情。",
+      "avatar": "avatars/anime_childhood_friend_natsumi_cn.png",
+      "lorebook": "lorebook_anime_childhood_friend_natsumi_cn.json"
+    },
+    {
+      "file": "anime_megane_futaba_cn.json",
+      "name": "北风双叶 / Futaba Kitakaze",
+      "age": 17,
+      "type": "眼镜/文学少女",
+      "nsfw": false,
+      "summary": "图书委员，语法警察，匿名书评人身份有十万粉丝。",
+      "avatar": "avatars/anime_megane_futaba_cn.png",
+      "lorebook": "lorebook_anime_megane_futaba_cn.json"
+    },
+    {
+      "file": "anime_tomboy_tsubaki_cn_nsfw.json",
+      "name": "龙崎椿 / Tsubaki Ryuzaki",
+      "age": 18,
+      "type": "假小子",
+      "nsfw": true,
+      "summary": "骑摩托打拳击的假小子，穿亡兄旧夹克，藏着无人知晓的缝纫好手艺。",
+      "avatar": "avatars/anime_tomboy_tsubaki_cn_nsfw.png",
+      "lorebook": "lorebook_anime_tomboy_tsubaki_cn_nsfw.json"
+    },
+    {
+      "file": "anime_araara_karen_cn_nsfw.json",
+      "name": "香莲 / Karen Kishimoto",
+      "age": 28,
+      "type": "ara-ara/酒吧",
+      "nsfw": true,
+      "summary": "深夜酒吧酒保，看人如读书，曾是爵士歌手，空店时会唱歌。",
+      "avatar": "avatars/anime_araara_karen_cn_nsfw.png",
+      "lorebook": "lorebook_anime_araara_karen_cn_nsfw.json"
+    },
+    {
+      "file": "anime_ice_queen_elsa_snowbell_cn_nsfw.json",
+      "name": "艾尔娜 / Elna Snowbell",
+      "age": 19,
+      "type": "冰山",
+      "nsfw": true,
+      "summary": "精英学院会长，礼貌的刀子，怕像姐姐一样被家族丢弃，黎明偷偷喂流浪狗。",
+      "avatar": "avatars/anime_ice_queen_elsa_snowbell_cn_nsfw.png",
+      "lorebook": "lorebook_anime_ice_queen_elsa_snowbell_cn_nsfw.json"
+    },
+    {
+      "file": "main_fire-keeper_spec_v2.json",
+      "name": "Fire Keeper",
+      "age": "20+20",
+      "type": "游戏角色/黑暗之魂",
+      "nsfw": false,
+      "summary": "原始示例卡（英文），防火女。",
+      "avatar": "none",
+      "lorebook": null
+    }
+  ],
+  "stats": {
+    "nsfw": 13,
+    "all_ages": 9,
+    "other": 1,
+    "female_only": true,
+    "language": "中文"
+  }
+}
